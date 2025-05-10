@@ -1,6 +1,6 @@
 # Protein disorder summarizer
 
-This script downloads, parses, and analyzes a proteins' pLDDT information via their associated AlphaFold predicted structure. it can take in a single UniProt accession as a string, or several accessions via a list of strings or through a Pandas dataframe. Try it out!
+This script downloads, parses, and analyzes a proteins' pLDDT information via their associated AlphaFold predicted structure. it can take in a single UniProt accession as a string, or several accessions via a list of strings or through a Pandas dataframe. Simplu call the master_function to try it out!
 
 Dependencies
 
