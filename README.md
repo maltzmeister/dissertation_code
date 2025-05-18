@@ -12,9 +12,6 @@ Dependencies
 note: the script will download a pdb file locally (called "{UniProt_accession_entered}.pdb") from the AlphaFold API. A lot of the specific functions were built around taking a Pandas Dataframe as input (what was used for this dissertation) but the basic functionality and output (see below) of this script will still be the same for other inputs when the master_function is called.
 
 
-Threshold pLDDT for a protein to be disordered = < 68.8.
-
-Threshold for consecutive disordered residues to be considered an IDR = 10
 
 The script will output a Pandas dataframe of summary information...
 
